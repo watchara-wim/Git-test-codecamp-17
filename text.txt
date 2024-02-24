@@ -6,3 +6,5 @@ branch-2
 
 
 line 8
+
+line 10
